@@ -20866,7 +20866,7 @@ footer .footer-navbar .nav-item:last-child a {
 }
 @media (max-width: 768px) {
   #slider {
-    min-height: 80vh !important;
+    min-height: 75vh !important;
     height: 100vh !important;
     display: block !important;
     opacity: 1;
