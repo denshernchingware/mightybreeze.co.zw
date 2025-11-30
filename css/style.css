@@ -20866,10 +20866,14 @@ footer .footer-navbar .nav-item:last-child a {
 }
 @media (max-width: 768px) {
   #slider {
-    min-height: 75vh !important;
+    min-height: 70vh !important;
     height: 100vh !important;
     display: block !important;
     opacity: 1;
     transition: opacity 0.5s ease;
+    
   }
+ #stats{
+  padding-bottom:0;
+ }
 }
