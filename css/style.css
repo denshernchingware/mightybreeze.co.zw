@@ -20882,3 +20882,8 @@ footer .footer-navbar .nav-item:last-child a {
     padding-bottom: 0;
   }
 }
+#clients-slider {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}

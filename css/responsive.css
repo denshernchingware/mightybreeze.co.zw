@@ -12849,6 +12849,10 @@
   }
   .md-right-0px {
     right: 0px !important;
+    display:none;
+  }
+  .icon-feather-arrow-left:before{
+    display:none;
   }
   .md-right-1px {
     right: 1px !important;
