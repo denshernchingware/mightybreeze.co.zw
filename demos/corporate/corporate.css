@@ -357,3 +357,18 @@ footer ul li {
         margin-left: 0;
     }
 }
+.bg-blue{
+   background-color: #508CA8;
+   color: #ffffff;
+}
+.text-white li a{
+    color: #ffffff !important;
+}
+.mt{
+    margin-top:-25px;
+}
+@media (max-width: 575px){
+ .position-relative{
+    margin-top:40px;
+ }   
+}

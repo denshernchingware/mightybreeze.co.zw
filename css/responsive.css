@@ -14252,7 +14252,8 @@
     padding-bottom: 8% !important;
   }
   .sm-pb-9 {
-    padding-bottom: 9% !important;
+  //  padding-bottom: 5% !important;
+    margin-top:0 !important;
   }
   .sm-pb-10 {
     padding-bottom: 10% !important;
