@@ -28,7 +28,7 @@
 @media (max-width: 1600px) {
   section {
     padding-top: 90px;
-    padding-bottom: 90px;
+   
   }
   section.big-section {
     padding-top: 120px;
@@ -82,7 +82,7 @@
   }
   section {
     padding-top: 0px;
-    padding-bottom: 40px;
+    padding-bottom: 0px;
     //margin-top:-20px;
   }
   #exp-info{
