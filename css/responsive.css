@@ -19741,7 +19741,9 @@
     padding-bottom: 0;
   }
   header .navbar-brand {
-    padding: 22px 0;
+    //padding: 22px 0;
+    max-height:80px;
+    margin-top:-3px;
   }
   header .navbar-brand .default-logo, header .navbar-brand .alt-logo {
     visibility: hidden !important;
